@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projects
-- 🌱 I’m currently learning Web Developmen
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I don't know nothing;
 -->
+- 🔭 I’m currently working on projects.
+- 🌱 I’m currently learning Web Development.
+- ⚡ Fun fact: I don't know nothing;
