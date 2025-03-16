@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on projects.
 - 🌱 I’m currently learning Web Development.
-- ⚡ Fun fact: I don't know Web Development.
